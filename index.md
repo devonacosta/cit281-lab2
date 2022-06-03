@@ -16,11 +16,8 @@
 10. Repo files
 
 ### Lab Deliverables
-1. lab-02-node.js
-[lab-02-node.js](lab-02-node.js)
+1. [lab-02-node.js](lab-02-node.js)
 
-2. ignored.txt
-[ignored.txt](ignored.txt)
+2. [ignored.txt](ignored.txt)
 
-3. lab-02-files.txt
-[lab-02-files.txt](lab-02-files.txt)
+3. [lab-02-files.txt](lab-02-files.txt)
